@@ -1,28 +1,35 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-US">
   <head>
   	<meta charset="utf-8">
   	<meta name="author" content="Dr. Eleanor Gaye">
-  	<style type="text/css">
+  	<style>
   	  body {
   		max-width: 800px;
- 	 	margin: 0 auto;}
+ 	 	margin: 0 auto;
+ 	  }
 
 	  .sender-column {
-  		text-align: right;}
+  		text-align: right;
+  	  }
 
 	  h1 {
-  		font-size: 1.5em;}
+  		font-size: 1.5em;
+  	  }
 
 	  h2 {
-  		font-size: 1.3em;}
+  		font-size: 1.3em;
+  	  }
 
 	  p,ul,ol,dl,address {
-  		font-size: 1.1em;}
+  		font-size: 1.1em;
+  	  }
 
 	  p, li, dd, dt, address {
-  		line-height: 1.5;}
+  		line-height: 1.5;
+  	  }
   	</style>
+  	<title>Marking up a letter</title>
   </head>
 
   <body>
@@ -34,22 +41,20 @@
  	  USA<br>
  	  <strong>Tel</strong>: 123-456-7890<br>
   	  <strong>Email</strong>: no_reply@example.com<br>
-  	  <br>
-  	  <time datetime="2016-01-20">20 January 2016</time>
-	</p>
+  	</p>
+
+  	<p class="sender-column"><time datetime="2016-01-20">20 January 2016</time></p>
 
 	<p>
 	  <strong>Miss Eileen Dover</strong><br>
 	  4321 Cliff Top Edge<br>
 	  Dover, CT9 XXX<br>
-	  UK<br>
+	  UK
 	</p>
 
 	<h1>Re: Eileen Dover university application</h1>
 
-	<p>
-	  Dear Eileen,
-	</p>
+	<p>Dear Eileen,</p>
 
 	<p>
 	  Thank you for your recent application to join us at the University of Awesome's science faculty to study as part of your <abbr title="Philosophiæ Doctor">PhD</abbr> next year. I will answer your questions one by one, in the following sections.
@@ -70,7 +75,7 @@
 	<p>Please let me know if this is ok, and if so which start date you would prefer.</p>
 
 	<p>
-	  You can find more information about <a title="important university dates" href="http://example.com" target="_blank">important university dates</a> on our website.
+	  You can find more information about <a title="table of awesome university important dates" href="http://example.com" target="_blank">important university dates</a> on our website.
 	</p>
 
 	<h2>Subjects of study</h2>
@@ -106,14 +111,14 @@
 	</dl>
 
 	<p>
-	  For more of my research, see my <a href="http://example.com" title="exotic dance research page" target="_blank">exotic dance research page</a>.
+	  For more of my research, see my <a href="http://example.com" title="Dr Gaye's exotic dance research" target="_blank">exotic dance research page</a>.
 	</p>
 	  
 	<p>Yours sincerely,</p>
 	<p>Dr Eleanor Gaye</p>
 
 	<p>
-	  University of Awesome motto: <q>Be awesome to each other.</q> -- <cite>Bill S Preston, <abbr title="Exx Sxx qxx">Esq</abbr></cite>
+	  University of Awesome motto: <q>Be awesome to each other.</q> -- <cite>Bill S Preston, <abbr title="Esquire">Esq</abbr></cite>
   	</p>
   </body>
 </html>
