@@ -4,6 +4,6 @@
 
 此处用于存放学习HTML过程中完成的项目情况：
 
-- Pro1: [Marking up a letter](tree/master/pro1-Marking%20up%20a%20letter)
+- Pro1: [Marking up a letter](https://github.com/LiTAooooo/HTML-Projects/tree/master/pro1-Marking%20up%20a%20letter)
 
-- Pro2: [Structuring page of content](tree/master/pro2-Structuring%20a%20page%20of%20content)
+- Pro2: [Structuring page of content](https://github.com/LiTAooooo/HTML-Projects/tree/master/pro2-Structuring%20a%20page%20of%20content)
