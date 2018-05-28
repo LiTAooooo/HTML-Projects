@@ -9,10 +9,10 @@
 - 书信原文
 - CSS文件
 
-以上文件位于Prerequisites目录下
+以上文件位于[Prerequisites](https://github.com/LiTAooooo/HTML-Projects/edit/master/pro1-Marking%20up%20a%20letter/Prerequisites)目录下
 
 ## 技术栈
 - HTML元素
 
 ## 项目结果
-参考`Marking_up_a_letter.html`
+参考[Marking_up_a_letter.html](https://github.com/LiTAooooo/HTML-Projects/edit/master/pro1-Marking%20up%20a%20letter/Marking_up_a_letter)
