@@ -11,7 +11,7 @@
 
 以上文件位于Prerequisites目录下
 
-##技术栈
+## 技术栈
 - HTML结构化语义元素(structural semantics)
 
 ## 项目结果
