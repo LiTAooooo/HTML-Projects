@@ -15,4 +15,4 @@
 - HTML元素
 
 ## 项目结果
-参考[Marking_up_a_letter.html](https://github.com/LiTAooooo/HTML-Projects/edit/master/pro1-Marking%20up%20a%20letter/Marking_up_a_letter)
+参考[Marking_up_a_letter.html](https://github.com/LiTAooooo/HTML-Projects/blob/master/pro1-Marking%20up%20a%20letter/Marking_up_a_letter.html)
