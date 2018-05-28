@@ -9,10 +9,10 @@
 - CSS文件
 - 相关图片
 
-以上文件位于Prerequisites目录下
+以上文件位于[Prerequisites](https://github.com/LiTAooooo/HTML-Projects/edit/master/pro2-Structuring%20a%20page%20of%20content/prerequisites)目录下
 
 ## 技术栈
 - HTML结构化语义元素(structural semantics)
 
 ## 项目结果
-参考`Birdwatching.html`
+参考[Birdwatching.html](https://github.com/LiTAooooo/HTML-Projects/blob/master/pro2-Structuring%20a%20page%20of%20content/Birdwatching.html)
