@@ -14,5 +14,5 @@
 ## 技术栈
 - HTML结构化语义元素(structural semantics)
 
-## 项目结果
-参考[Birdwatching.html](https://github.com/LiTAooooo/HTML-Projects/blob/master/pro2-Structuring%20a%20page%20of%20content/Birdwatching.html)
+## 项目展示
+参考[Birdwatching.html](https://litaooooo.github.io/HTML-Projects/pro2-Structuring%20a%20page%20of%20content/Birdwatching.html)
